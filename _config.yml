@@ -1,11 +1,11 @@
 # Basic
 title: Vno Jekyll
 subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/zengfann/Fan_Blog.github.io" target="_blank">Download the theme</a>
+welcome_message: <a href="https://github.com/zengfann/zengfann.github.io" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://Fan_Blog.github.io"
+url: "http://zengfann.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -32,7 +32,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: zengfann
     # duoshuo: 
     
 # Social
