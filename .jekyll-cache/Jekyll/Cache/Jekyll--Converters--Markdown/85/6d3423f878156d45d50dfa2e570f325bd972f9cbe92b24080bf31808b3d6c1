@@ -1,0 +1,59 @@
+I"�<h4 id="whats-this">What’s this</h4>
+
+<p><a href="https://github.com/onevcat/vno-jekyll">Vno Jekyll</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>. It is a port of my Ghost theme <a href="https://github.com/onevcat/vno">vno</a>, which is originally developed from <a href="https://github.com/daleanthony/uno">Dale Anthony’s Uno</a>.</p>
+
+<h4 id="usage">Usage</h4>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git clone https://github.com/onevcat/vno-jekyll.git your_site
+<span class="nv">$ </span><span class="nb">cd </span>your_site
+<span class="nv">$ </span>bundler <span class="nb">install</span>
+<span class="nv">$ </span>bundler <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<p>Your site with <code class="language-plaintext highlighter-rouge">Vno Jekyll</code> enabled should be accessible in http://127.0.0.1:4000.</p>
+
+<p>For more information about Jekyll, please visit <a href="http://jekyllrb.com">Jekyll’s site</a>.</p>
+
+<h4 id="configuration">Configuration</h4>
+
+<p>All configuration could be done in <code class="language-plaintext highlighter-rouge">_config.yml</code>. Remember you need to restart to serve the page when after changing the config file. Everything in the config file should be self-explanatory.</p>
+
+<h4 id="background-image-and-avatar">Background image and avatar</h4>
+
+<p>You could replace the background and avatar image in <code class="language-plaintext highlighter-rouge">assets/images</code> folder to change them.</p>
+
+<h4 id="sites-using-vno">Sites using Vno</h4>
+
+<p><a href="http://onevcat.com">My blog</a> is using <code class="language-plaintext highlighter-rouge">Vno Jekyll</code> as well, you could see how it works in real. There are some other sites using the same theme. You can find them below:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Site Name</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>OneV’s Den</td>
+      <td><a href="http://onevcat.com">http://onevcat.com</a></td>
+    </tr>
+    <tr>
+      <td>July Tang</td>
+      <td><a href="http://onevcat.com">http://blog.julytang.xyz</a></td>
+    </tr>
+    <tr>
+      <td>Harry Lee</td>
+      <td><a href="http://qiuqi.li">http://qiuqi.li</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p>If you happen to be using this theme, welcome to <a href="https://github.com/onevcat/vno-jekyll/pulls">send me a pull request</a> to add your site link here. :)</p>
+</blockquote>
+
+<h4 id="license">License</h4>
+
+<p>Great thanks to <a href="https://github.com/daleanthony">Dale Anthony</a> and his <a href="https://github.com/daleanthony/uno">Uno</a>. Vno Jekyll is based on Uno, and contains a lot of modification on page layout, animation, font and some more things I can not remember. Vno Jekyll is followed with Uno and be licensed as <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>. See the link for more information.</p>
+:ET
