@@ -77,7 +77,7 @@ $ jekyll serve
 6. Disqus 中还需要将个人网站加入到 Home->Your site->configtion->Advance 加入到`Trusted Domains`  
 
 ## 感谢
-:fire:本博客是基于[Von-Jkeyll](https://onevcat.com)与[maoyachen](https://mayachen.com)的修改,感谢！:heart:
+:fire:本博客是基于[Von-Jkeyll](https://onevcat.com)与[maoyachen](https://maoyachen.com)的修改,感谢！:heart:
 ## 许可认证书
 本项目开源，基于[MIT](https://github.com/zengfann/zengfann.github.io/blob/master/LICENSE) 许可。
    
