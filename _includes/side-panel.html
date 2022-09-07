@@ -21,7 +21,10 @@
           <div>
             <nav class="cover-navigation cover-navigation--primary">
               <ul class="navigation">
+                <li class="navigation__item"><a href="/#about" title="{{site.about_button.description}}" class="about-button">{{site.about_button.title}}</a></li>
                 <li class="navigation__item"><a href="/#blog" title="{{site.blog_button.description}}" class="blog-button">{{site.blog_button.title}}</a></li>
+                <li class="navigation__item"><a href="/#life" title="{{site.life_button.description}}" class="life-button">{{site.life_button.title}}</a></li>
+                <li class="navigation__item"><a href="/#friends" title="{{site.friends_button.description}}" class="friends-button">{{site.friends_button.title}}</a></li>
                 {% for item in site.nav %}
                   <li class="navigation__item"><a href="{{item.url}}" target="_blank" title="{{item.description}}">{{item.title}}</a></li>
                 {% endfor %}
